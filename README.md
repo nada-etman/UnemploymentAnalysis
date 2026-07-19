@@ -94,7 +94,7 @@ Unemployment rate shows a **weak negative correlation** with estimated employed 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Unemployment_Analysis.git
+   git clone https://github.com/nada-etman/Unemployment_Analysis.git
    cd Unemployment_Analysis
    ```
 
