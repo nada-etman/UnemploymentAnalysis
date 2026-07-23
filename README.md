@@ -113,7 +113,7 @@ The script will print dataset info and summary statistics to the console, and sa
 ##  Project Structure
 
 ```
-CodeAlpha_Unemployment_Analysis/
+Unemployment_Analysis/
 │
 ├── Unemployment_in_India.csv               # Dataset 1
 ├── Unemployment_Rate_upto_11_2020.csv      # Dataset 2 (with geo coordinates)
